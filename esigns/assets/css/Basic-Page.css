@@ -1,0 +1,18 @@
+*{
+  margin:0;
+}
+
+.wrapper{
+  min-height:100%;
+  margin-bottom:-32px;
+}
+
+footer, .wrapper:after{
+  height:32px;
+  border-top:#eee solid thin;
+}
+
+html, body, .wrapper{
+  height:100%;
+}
+
